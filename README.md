@@ -2,6 +2,10 @@
 
 ## learning
 [ES2015+ cheatsheet](https://devhints.io/es6)  
+[ES6 Katas](http://es6katas.org/)
+[es6-features](http://es6-features.org/)
+
+## modules
 [Developing NPM Packages](https://auth0.com/blog/developing-npm-packages/)  
 
 ## optimization
